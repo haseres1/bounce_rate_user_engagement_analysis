@@ -2,7 +2,7 @@
 
 # Project Objective and Introduction
 
-In this, I analyze the user engagement dataset to gain insights into user engagement and identify factors that contribute to a high or low bounce rate. Also, to make informed decision-making processes aimed at enhancing user experience, optimizing user behavior and preferences, and improving customer retention rates.
+In this project, I analyze the user engagement dataset to gain insights into user engagement and identify factors that contribute to a high or low bounce rate. Also, to make informed decision-making processes aimed at enhancing user experience, optimizing user behavior and preferences, and improving customer retention rates.
 
 
 # Importing Essential Python Libraries and Datasets
